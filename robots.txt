@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mgcskb.github.io/sitemap.xml
